@@ -9,6 +9,7 @@ $ npm init
 ```bash
 $ yarn add typescript ts-node --dev
 $ yarn add @types/node --dev
+$ yarn add @types/express -dev
 ```
 
 # 3. ts config 파일 추가
