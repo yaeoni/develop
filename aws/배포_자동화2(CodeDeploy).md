@@ -46,7 +46,9 @@ $ sudo service codedeploy-agent status
 ## 5. AWS Code Deploy 설정
 
 1. aws code deploy 접속 -> 애플리케이션 -> 애플리케이션 생성
-   ![image](https://user-images.githubusercontent.com/63635886/135753091-9464222c-4650-4998-a0a3-7eb3a0216d0e.png)
+
+<img src="https://user-images.githubusercontent.com/63635886/135753091-9464222c-4650-4998-a0a3-7eb3a0216d0e.png" width="40%" height="40%"/>
+
 2. 해당 application 접속 -> 배포 그룹 생성
 3. 배포 그룹명 입력 & 서비스 역할은 배포\_자동화1 에서 만든 codedeploy 역할 부여 & 배포 유형은 현재 위치
 4. 환경 구성 -> Amazon EC2 인스턴스 체크(인스턴스에 태그 추가해서 해당 태그로 탐색하기)
