@@ -45,4 +45,4 @@
 
 # 완료 ,, 하루를 걸친 배포 자동화,,, 쓸 일 있을거야,, 라며 위로해보자
 
-![image](https://user-images.githubusercontent.com/63635886/135759376-7f504a00-9c3d-4868-98f7-68deb6795f2a.png)
+<img src="https://user-images.githubusercontent.com/63635886/135759376-7f504a00-9c3d-4868-98f7-68deb6795f2a.png" width="40%" height="40%"/>

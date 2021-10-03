@@ -7,11 +7,11 @@
 ## 2. 소스 설정 (github 레포지토리 활용)
 
 - develop branch가 업데이트 될 때마다 배포 시킬 것이므로 소스버전에 develop
-  ![image](https://user-images.githubusercontent.com/63635886/135744910-6c5c9df6-1b2b-4def-a964-08fd571dd712.png)
+  <img src="https://user-images.githubusercontent.com/63635886/135744910-6c5c9df6-1b2b-4def-a964-08fd571dd712.png" width="40%" height="40%"/>
 
 ## 3. 환경 설정 (인터넷 참고)
 
-![image](https://user-images.githubusercontent.com/63635886/135744935-c9e61ecf-0246-45cc-9aae-50bb1433379f.png)
+<img src="https://user-images.githubusercontent.com/63635886/135744935-c9e61ecf-0246-45cc-9aae-50bb1433379f.png" width="40%" height="40%"/>
 
 ## 4. 빌드 스펙 파일 설정
 
@@ -20,7 +20,7 @@
 ## 5. 아티팩트 설정
 
 - Code Deploy 사용할 것이라면 zip파일로 올라갈 수 있도록 한다
-  ![image](https://user-images.githubusercontent.com/63635886/135745223-e65c0375-e899-4f04-8f71-dbb33cf24122.png)
+  <img src="https://user-images.githubusercontent.com/63635886/135745223-e65c0375-e899-4f04-8f71-dbb33cf24122.png" width="40%" height="40%"/>
 
 ## 6. 로그 설정
 
