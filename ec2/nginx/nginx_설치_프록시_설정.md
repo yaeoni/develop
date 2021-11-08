@@ -30,6 +30,8 @@ location / {
 
 ### 3-2. Symbolic link 생성
 
+- 절대 경로로 써야 심볼릭 링크를 제대로 알아먹는다.
+
 ```
 $ sudo ln -s [available 속 custom conf 파일 경로] [enabled]
 ```
