@@ -141,4 +141,5 @@ artifacts:
 
 ```bash
 $ vim /var/log/aws/codedeploy-agent/codedeploy-agent.log
+$ vim /opt/codedeploy-agent/deployment-root/deployment-logs/codedeploy-agent-deployments.log
 ```
